@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Anket-Pratap-Singh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning B.Tech (Information Technology)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+-                     contact number :- 9161153581
+-                     E-mail ID :- singhanket5101@gmail.com
 
 <!---
 Anket-Pratap-Singh/Anket-Pratap-Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
